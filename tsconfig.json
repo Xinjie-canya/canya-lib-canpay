@@ -41,6 +41,9 @@
       "@environment/*": [
         "environments/*"
       ],
+      "@canyaio/canpay-lib": [
+        "dist/canpay-lib"
+      ],
       "canpay-lib": [
         "dist/canpay-lib"
       ],
